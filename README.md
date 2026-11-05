@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="./happy-bricks.jpg" alt="Happy Bricks" width="700" />
+</p>
+
 # 🧱 Happy Bricks
 
 A colorful, responsive online toy store website for kids, featuring toys, kids fashion, and baby essentials.
 
 🔗 **Live Demo:** [dev-ahmedissa.github.io/happy-bricks](https://dev-ahmedissa.github.io/happy-bricks/)
 
-![Happy Bricks Preview](./screenshots/preview.png)
+## 📸 Preview
+
+![Happy Bricks Website](./preview.png)
 
 ## ✨ Features
 
