@@ -4,7 +4,9 @@
 
 # 🧱 Happy Bricks
 
-A colorful, responsive online toy store website for kids, featuring toys, kids fashion, and baby essentials.
+A colorful online toy store website for kids, featuring toys, kids fashion, and baby essentials.
+
+> 🌱 My first web project, built to practice HTML and CSS fundamentals. Best viewed on a laptop or desktop screen.
 
 🔗 **Live Demo:** [dev-ahmedissa.github.io/happy-bricks](https://dev-ahmedissa.github.io/happy-bricks/)
 
@@ -19,7 +21,7 @@ A colorful, responsive online toy store website for kids, featuring toys, kids f
 - Featured works gallery
 - Pricing table for popular products
 - Team and news sections
-- Fully responsive layout
+- Clean sections: hero, categories, pricing, team, and news
 
 ## 🛠️ Built With
 
